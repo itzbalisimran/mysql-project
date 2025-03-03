@@ -8,5 +8,3 @@ insights.
 • Applied functions such as DATE and REPLACE to manipulate and analyze data.  
 • Leveraged window functions (e.g., ROW_NUMBER, RANK) for advanced data ranking and trend 
 analysis. 
-• Cleaned and transformed data using Power Query to ensure data accuracy and consistency. 
-•  Built a robust data model by creating relationships between multiple tables to support dynamic
